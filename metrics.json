@@ -1,0 +1,5 @@
+{
+  "auc": 0.995,
+  "recall_at_5pct_fpr": 0.9575,
+  "repayment_mape_pct": 2.49
+}
